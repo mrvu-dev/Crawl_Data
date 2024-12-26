@@ -6,7 +6,7 @@ from tqdm import tqdm
 import random
 import time
 import datetime
-from cookies import get_cookies
+from Crawl_onhold_time.cookies import get_cookies
 
 cookies = get_cookies()
 
