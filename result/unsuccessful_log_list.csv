@@ -1,12 +1,391 @@
 ﻿shipment_id,operate_station_name,operator,operate_time,message
-SPXVN04246579616B,50-HCM Tan Binh/Bach Dang Hub,trong.dinhquang@shopee.com,2024-11-28 20:49:34,SPXVN04246579616B is packing into TO TO20241128I61D8
-SPXVN04246579616B,50-HCM Tan Binh/Bach Dang Hub,spx@shopee.com,2024-11-28 20:49:34,SPXVN04246579616B received by 50-HCM Tan Binh/Bach Dang Hub
-SPXVN04246579616B,50-HCM Tan Binh/Bach Dang Hub,sys,2024-11-28 20:49:34,SPXVN04246579616B received by 50-HCM Tan Binh/Bach Dang Hub
-SPXVN04246579616B,50-HCM Tan Binh/Bach Dang Hub,trong.dinhquang@shopee.com,2024-11-28 20:49:30,SPXVN04246579616B is packing into TO TO20241128I61D8
-SPXVN04246579616B,50-HCM Tan Binh/Bach Dang Hub,spx@shopee.com,2024-11-28 20:49:30,SPXVN04246579616B received by 50-HCM Tan Binh/Bach Dang Hub
-SPXVN04246579616B,50-HCM Tan Binh/Bach Dang Hub,sys,2024-11-28 20:49:30,SPXVN04246579616B received by 50-HCM Tan Binh/Bach Dang Hub
-SPXVN04246579616B,50-HCM Tan Binh/Bach Dang Hub,DOAN VUONG PHU,2024-11-28 18:30:09,Driver picked up SPXVN04246579616B
-SPXVN04287793482C,,NGUYỄN QUỐC HUY,2024-12-12 07:56:10,Driver delivering %!s(MISSING)
-SPXVN04287793482C,Dien Khanh SOC,[33788][C-KHA] Nguyễn Minh Phụng - SPXLH00777,2024-12-12 05:51:18,"Driver depart from Dien Khanh SOC, LT0OCC3KDR3F1"
-SPXVN04287793482C,Dien Khanh SOC,dcbpoagt_c021@shopeemobile-external.com,2024-12-12 04:37:53,SingleLoad SPXVN04287793482C into LT0OCC3KDR3F1
-SPXVN04287793482C,Dien Khanh SOC,spx@shopee.com,2024-12-12 04:37:52,SPXVN04287793482C received by Dien Khanh SOC
+VN259860574726M,,CAO MINH NHUT,2025-01-23 15:13:23,Driver delivering %!s(MISSING)
+VN259860574726M,,CAO MINH NHUT,2025-01-23 15:13:22,Driver delivering %!s(MISSING)
+VN259860574726M,,CAO MINH NHUT,2025-01-23 14:13:55,Driver delivering %!s(MISSING)
+VN254727166414H,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-03 18:20:52,VN254727166414H received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN254727166414H,HCM Mega SOC,CBS001VN1707/CBS1-1-11/admin,2025-01-22 09:56:58,VN254727166414H received by HCM Mega SOC
+SPXVN057720315191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-21 11:41:34,SPXVN057720315191 is packing into TO TO20250121SHJ79
+SPXVN057720315191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-21 11:41:12,SPXVN057720315191 is packing into TO TO20250121SHJ79
+SPXVN057720315191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-21 11:40:24,SPXVN057720315191 is packing into TO TO20250121SHJ79
+SPXVN057720315191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-21 11:39:09,SPXVN057720315191 is packing into TO TO20250121SHIKA
+SPXVN057720315191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-21 11:39:02,SPXVN057720315191 is packing into TO TO20250121SHIKA
+SPXVN057720315191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-19 12:11:49,SPXVN057720315191 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057720315191,,TRỊNH CÔNG THÀNH,2025-01-18 09:39:30,Driver delivering %!s(MISSING)
+SPXVN057720315191,HCM Mega SOC,dcbpoagt140@shopeemobile-external.com,2025-01-17 01:50:02,SingleUnload TO20250116O13MK from LT0P1G3MO0XN1
+VN258401594451G,50-HCM Thu Duc/Hiep Binh Phuoc Hub,minh.honhat@shopee.com,2025-02-03 14:57:45,VN258401594451G received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN258401594451G,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-02-03 10:56:54,VN258401594451G received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN258401594451G,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:03:13,VN258401594451G received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN258401594451G,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 09:06:16,VN258401594451G received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055128308391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-02-02 15:36:33,SPXVN055128308391 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055128308391,,LÊ TẤN TÀI,2025-02-01 10:56:21,Driver delivering %!s(MISSING)
+SPXVN055128308391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:59:03,SPXVN055128308391 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055128308391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:42:09,SPXVN055128308391 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055128308391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-01-22 22:12:15,SingleUnload TO20250122TF6UF from LT0P1M3N0Z0NA
+SPXVN056101100491,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 18:32:15,SPXVN056101100491 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056101100491,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 14:43:51,SPXVN056101100491 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056101100491,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:08:59,SPXVN056101100491 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056101100491,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 11:20:06,SPXVN056101100491 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056101100491,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 16:37:18,Unseal LT0P1M3N0LC73
+SPXVN056101100491,BN B Mega SOC,CBS002VN1959/IND11/IND000001,2025-01-22 01:22:56,SPXVN056101100491 received by BN B Mega SOC
+VN251711349754S,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 17:48:56,VN251711349754S received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN251711349754S,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 10:29:11,VN251711349754S received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN251711349754S,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 10:37:55,VN251711349754S received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN251711349754S,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 10:37:48,VN251711349754S received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN251711349754S,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 10:37:26,VN251711349754S received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN254613195273W,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:37:30,VN254613195273W received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN254613195273W,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:17:54,VN254613195273W received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN254613195273W,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 12:59:53,VN254613195273W received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN254613195273W,,NGUYỄN CÔNG PHONG,2025-01-25 15:43:15,Driver delivering %!s(MISSING)
+VN254613195273W,,NGUYỄN CÔNG PHONG,2025-01-25 15:43:05,Driver delivering %!s(MISSING)
+VN254613195273W,,NGUYỄN CÔNG PHONG,2025-01-25 15:43:02,Driver delivering %!s(MISSING)
+VN254613195273W,,NGUYỄN CÔNG PHONG,2025-01-25 15:43:02,Driver delivering %!s(MISSING)
+VN254613195273W,,NGUYỄN CÔNG PHONG,2025-01-25 08:44:07,Driver delivering %!s(MISSING)
+VN250968621340N,,CAO MINH NHUT,2025-01-22 09:30:57,Driver delivering %!s(MISSING)
+VN250968621340N,,CAO MINH NHUT,2025-01-22 08:10:20,Driver delivering %!s(MISSING)
+VN250968621340N,,CAO MINH NHUT,2025-01-22 08:10:20,Driver delivering %!s(MISSING)
+VN2531230569712,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:20:07,VN2531230569712 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN2531230569712,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:14:46,VN2531230569712 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN2531230569712,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 11:40:40,VN2531230569712 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN2593666889872,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 11:07:33,VN2593666889872 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN2593666889872,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:22:39,VN2593666889872 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056379757361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:05:45,SPXVN056379757361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056379757361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 15:49:42,SPXVN056379757361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056379757361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 10:30:44,SPXVN056379757361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056379757361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:35:22,SPXVN056379757361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056379757361,HCM Mega SOC,DWS001VN1707/DWS04/admin,2025-01-23 21:38:43,SPXVN056379757361 received by HCM Mega SOC
+SPXVN056379757361,BN B Mega SOC,DWS001VN1959/DWS06/DWS000006,2025-01-22 00:36:06,SPXVN056379757361 received by BN B Mega SOC
+SPXVN056379757361,22-BNH Tu Son Hub,nga.nguyenminh@shopee.com,2025-01-21 21:59:50,SPXVN056379757361 received by 22-BNH Tu Son Hub
+SPXVN058391713861,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:20:10,SPXVN058391713861 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058391713861,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:08:09,SPXVN058391713861 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058391713861,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:43:59,SPXVN058391713861 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-24 09:55:06,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:34:07,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:34:06,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:34:06,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:30:44,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:30:43,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:30:42,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:30:41,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 10:30:41,Driver delivering %!s(MISSING)
+SPXVN058391713861,,LÊ NGỌC TUẤN,2025-01-23 08:59:10,Driver delivering %!s(MISSING)
+SPXVN058901917451,,ĐẶNG HOÀNG NGHĨA,2025-01-25 09:52:07,Driver delivering %!s(MISSING)
+SPXVN058901917451,HCM Mega SOC,qui.tranminh@shopee.com,2025-01-23 14:45:19,SingleUnload TO20250121SNUUB from LT0P1M3MYD2F1
+VN2567119330151,,VÕ NGỌC AN,2025-02-04 08:30:28,Driver delivering %!s(MISSING)
+VN2567119330151,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:43:19,VN2567119330151 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN2567119330151,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:41:14,VN2567119330151 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+VN2567119330151,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:16:02,VN2567119330151 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052194191851,,NGUYEN GIA QUAN,2025-02-04 08:18:20,Driver delivering %!s(MISSING)
+SPXVN052194191851,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:44:58,SPXVN052194191851 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052194191851,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:26:58,SPXVN052194191851 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052194191851,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:32:31,SPXVN052194191851 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052194191851,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:34:52,SPXVN052194191851 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052194191851,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:39:52,SPXVN052194191851 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056491190501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:16:06,SPXVN056491190501 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056491190501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:08:53,SPXVN056491190501 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056491190501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 11:53:01,SPXVN056491190501 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056491190501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-01-23 19:01:19,SPXVN056491190501 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056491190501,,QUÁCH HOÀNG PHI LONG,2025-01-23 08:43:57,Driver delivering %!s(MISSING)
+SPXVN056491190501,,QUÁCH HOÀNG PHI LONG,2025-01-22 08:35:54,Driver delivering %!s(MISSING)
+SPXVN053116899191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:24:05,SPXVN053116899191 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053116899191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:39:11,SPXVN053116899191 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053116899191,,NGUYỄN VIẾT NGHĨA,2025-01-25 08:44:18,Driver delivering %!s(MISSING)
+SPXVN053116899191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-23 12:10:26,SPXVN053116899191 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053116899191,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 11:01:00,SPXVN053116899191 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053116899191,HCM Mega SOC,DWS001VN1707/DWS05/admin,2025-01-21 20:58:02,SPXVN053116899191 received by HCM Mega SOC
+SPXVN059083624271,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:48:55,SPXVN059083624271 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059083624271,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:55:35,SPXVN059083624271 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059083624271,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:18:34,SPXVN059083624271 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059083624271,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-01-22 21:47:39,SingleUnload SPXVN059083624271 from LT0P1M3N0Z0J6
+SPXVN059083624271,HCM Mega SOC,DWS001VN1707/DWS04/admin,2025-01-22 12:35:02,SPXVN059083624271 received by HCM Mega SOC
+SPXVN059083624271,51-HCM Tan Phu/Phu Tho Hoa Hub,[61292][S-HCM] Đỗ Hoàng Thanh - SPXLH01266,2025-01-22 12:09:44,"Driver depart from 51-HCM Tan Phu/Phu Tho Hoa Hub, LT0P1M3N1ZKX5"
+SPXVN050399697561,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:14:50,SPXVN050399697561 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050399697561,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:00:20,SPXVN050399697561 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050399697561,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:41:03,SPXVN050399697561 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050399697561,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:22:44,SPXVN050399697561 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051936612931,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:19:13,SPXVN051936612931 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051936612931,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:07:58,SPXVN051936612931 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051936612931,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:44:44,SPXVN051936612931 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051936612931,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:15:31,SPXVN051936612931 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051936612931,HCM Mega SOC,DWS001VN1707/DWS02/admin,2025-01-24 00:40:54,SPXVN051936612931 received by HCM Mega SOC
+SPXVN051936612931,BN B Mega SOC,DWS001VN1959/DWS03/DWS000003,2025-01-22 10:17:52,SPXVN051936612931 received by BN B Mega SOC
+SPXVN051486071031,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:18:14,SPXVN051486071031 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051486071031,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-02-02 15:25:57,SPXVN051486071031 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051486071031,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 10:39:42,SPXVN051486071031 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056507577371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 16:22:13,SPXVN056507577371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056507577371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:16:37,SPXVN056507577371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056507577371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-02-03 10:10:09,SPXVN056507577371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056507577371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 10:37:52,SPXVN056507577371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056507577371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 11:11:38,SPXVN056507577371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056507577371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 11:09:13,SPXVN056507577371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056507577371,,TRƯƠNG QUANG PHƯỚC,2025-01-22 08:52:23,Driver delivering %!s(MISSING)
+SPXVN052244353641,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 18:35:10,SPXVN052244353641 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052244353641,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:28:14,SPXVN052244353641 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052244353641,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:56:06,SPXVN052244353641 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052244353641,50-HCM Thu Duc/Hiep Binh Phuoc Hub,phat.lengoc@shopee.com,2025-01-24 15:11:32,SPXVN052244353641 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052244353641,50-HCM Thu Duc/Hiep Binh Phuoc Hub,phat.lengoc@shopee.com,2025-01-24 15:11:27,SPXVN052244353641 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050513230971,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:20:58,SPXVN050513230971 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050513230971,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:27:30,SPXVN050513230971 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050513230971,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 11:23:09,SPXVN050513230971 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050513230971,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-21 22:52:12,SingleUnload TO20250121SM7K3 from LT0P1L3MXR3D6
+SPXVN052776266391,,ĐỖ THANH DŨNG,2025-02-04 07:58:49,Driver delivering %!s(MISSING)
+SPXVN052776266391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:06:10,SPXVN052776266391 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052776266391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:14:38,SPXVN052776266391 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052776266391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:34:31,SPXVN052776266391 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052776266391,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:40:56,SPXVN052776266391 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052776266391,Nhà thuốc VINA,nhathuocvina.vn@gmail.com,2025-01-21 19:44:33,SPXVN052776266391 is adding into receive task DRT2025012104PB3
+SPXVN050054514051,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:18:40,SPXVN050054514051 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056899663441,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:34:57,SPXVN056899663441 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056899663441,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:43:01,SPXVN056899663441 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056899663441,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 15:54:28,Unseal LT1P1L3NDEB71
+SPXVN056899663441,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 15:54:28,Unseal LT1P1L3NDEB71
+SPXVN056899663441,21-HNI Hoai Duc 2 Hub,huy.phungvan@shopee.com,2025-01-21 20:48:28,SPXVN056899663441 is packing into TO TO20250121SI4AO
+SPXVN050089060331,,ĐẶNG HOÀNG NGHĨA,2025-01-25 09:52:03,Driver delivering %!s(MISSING)
+SPXVN050089060331,50-HCM Binh Thanh Hub,loi.nguyenthanh@shopee.com,2025-01-21 17:09:00,SPXVN050089060331 is packing into TO TO20250121SO78I
+SPXVN054527139901,,ĐẶNG HOÀNG NGHĨA,2025-01-25 08:06:04,Driver delivering %!s(MISSING)
+SPXVN054527139901,51-HCM Binh Chanh/Binh Hung Hub,hung.vantran@shopee.com,2025-01-21 11:48:10,SPXVN054527139901 is packing into TO TO20250121SHK6K
+SPXVN053282167791,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:26:32,SPXVN053282167791 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053282167791,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:28:33,SPXVN053282167791 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053282167791,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 10:56:42,SPXVN053282167791 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059715156121,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 17:57:01,SPXVN059715156121 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059715156121,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 15:05:24,SPXVN059715156121 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059715156121,50-HCM Tan Phu/Tay Thanh Hub,[79183]A Sóc - Võ Văn Sanh,2025-01-22 16:45:27,"Driver depart from 50-HCM Tan Phu/Tay Thanh Hub, LT0P1M3MZX4J1"
+SPXVN059715156121,HCM Mega SOC,CBS001VN1707/CBS1-3-09/admin,2025-01-21 20:52:26,SPXVN059715156121 received by HCM Mega SOC
+SPXVN059715156121,HCM Mega SOC,dcbpoagt123@shopeemobile-external.com,2025-01-21 20:25:18,Unseal LT0P1L3MXQ7Q1
+SPXVN050859372991,,VÕ NGỌC AN,2025-02-04 08:00:32,Driver delivering %!s(MISSING)
+SPXVN050859372991,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:43:05,SPXVN050859372991 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050859372991,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:55:03,SPXVN050859372991 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050859372991,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 14:58:35,SPXVN050859372991 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054599723091,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:05:32,SPXVN054599723091 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054599723091,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:52:05,SPXVN054599723091 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054599723091,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 12:47:24,SPXVN054599723091 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054599723091,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:19:06,SPXVN054599723091 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056992434361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 18:35:08,SPXVN056992434361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056992434361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:44:29,SPXVN056992434361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056992434361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:41:22,SPXVN056992434361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056992434361,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:20:46,SPXVN056992434361 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052545455621,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 14:42:07,SPXVN052545455621 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052545455621,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:09:28,SPXVN052545455621 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053531471241,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-01-24 15:24:15,Adding SPXVN053531471241 into Return Assignment Task RAT20250124050GW
+SPXVN053531471241,HCM Mega SOC,phuc.vominh@shopee.com,2025-01-23 02:43:23,SingleLoad SPXVN053531471241 into LT0P1N3N2AMW2
+SPXVN058817143171,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-02-03 10:07:05,SPXVN058817143171 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058817143171,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 13:41:44,SPXVN058817143171 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058817143171,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 10:40:33,SPXVN058817143171 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058817143171,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 10:33:05,SPXVN058817143171 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058817143171,HCM Mega SOC,nguyen.quang.vinh@shopee.com,2025-01-24 19:59:56,Unseal LT0P1O3N5HQO1
+SPXVN058817143171,20-HNI Dong Da 10 Hub,NGUYEN MINH TIEN,2025-01-22 13:56:27,Driver picked up SPXVN058817143171
+SPXVN051341828551,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-02-03 10:25:44,SPXVN051341828551 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051341828551,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:35:38,SPXVN051341828551 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051341828551,50-HCM Thu Duc/Hiep Binh Phuoc Hub,phat.lengoc@shopee.com,2025-01-24 15:01:08,SPXVN051341828551 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051341828551,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-01-22 12:37:11,SingleUnload TO20250122T6MP9 from LT0P1M3N00CK3
+SPXVN054415224331,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:16:54,SPXVN054415224331 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054415224331,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:18:44,SPXVN054415224331 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054415224331,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 10:28:56,SPXVN054415224331 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054415224331,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:07:10,SPXVN054415224331 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054415224331,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:07:07,SPXVN054415224331 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054415224331,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 13:50:13,SPXVN054415224331 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054415224331,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:11:39,SPXVN054415224331 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054415224331,HCM Mega SOC,CBS001VN1707/CBS1-3-12/admin,2025-01-24 00:13:27,SPXVN054415224331 received by HCM Mega SOC
+SPXVN051814759271,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:20:56,SPXVN051814759271 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051814759271,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:03:05,SPXVN051814759271 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051814759271,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:05:04,SPXVN051814759271 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051814759271,21-HNI Thanh Tri 5 Hub,VŨ HỮU KIÊN,2025-01-21 15:36:29,Driver picked up SPXVN051814759271
+SPXVN055931584371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:37:13,SPXVN055931584371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055931584371,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:42:46,SPXVN055931584371 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057629149081,,TRẦN VIỆT ĐỨC,2025-02-03 10:11:04,Driver delivering %!s(MISSING)
+SPXVN057629149081,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:38:15,SPXVN057629149081 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057629149081,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-23 11:57:21,SPXVN057629149081 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057629149081,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 10:59:38,SPXVN057629149081 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057629149081,HCM Mega SOC,CBS001VN1707/CBS1-1-09/admin,2025-01-21 22:49:57,SPXVN057629149081 received by HCM Mega SOC
+SPXVN058403208611,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:31:37,SPXVN058403208611 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058403208611,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:27:55,SPXVN058403208611 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058403208611,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 11:00:00,SPXVN058403208611 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052384406401,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:04:48,SPXVN052384406401 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052384406401,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:17:45,SPXVN052384406401 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052384406401,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 13:34:56,SPXVN052384406401 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053471170481,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:37:09,SPXVN053471170481 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053471170481,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:40:07,SPXVN053471170481 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051933717671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:26:26,SPXVN051933717671 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051933717671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:27:13,SPXVN051933717671 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051933717671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 10:55:57,SPXVN051933717671 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059854366291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:05:35,SPXVN059854366291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059854366291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:14:13,SPXVN059854366291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059854366291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:50:42,SPXVN059854366291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059854366291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:16:17,SPXVN059854366291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059854366291,HCM Mega SOC,nguyen.quang.vinh@shopee.com,2025-01-24 19:59:56,Unseal LT0P1O3N5HQO1
+SPXVN055559758151,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:14:47,SPXVN055559758151 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055559758151,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:15:14,SPXVN055559758151 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055559758151,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:34:53,SPXVN055559758151 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055559758151,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:20:05,SPXVN055559758151 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055559758151,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 16:37:18,Unseal LT0P1M3N0LC73
+SPXVN050466480671,HCM Mega SOC,DWS001VN1707/DWS02/admin,2025-01-23 23:42:34,SPXVN050466480671 received by HCM Mega SOC
+SPXVN050466480671,BN B Mega SOC,DWS001VN1959/DWS07/DWS000007,2025-01-22 12:07:54,SPXVN050466480671 received by BN B Mega SOC
+SPXVN050466480671,BN B Mega SOC,khanh.trinhdinh@shopee.com,2025-01-22 11:58:13,Unseal LT0P1M3N8V7Q1
+SPXVN050466480671,BN B Mega SOC,khanh.trinhdinh@shopee.com,2025-01-22 11:58:12,Unseal LT0P1M3N8V7Q1
+SPXVN050466480671,22-BNH Yen Phong Hub,hai.tranthi@shopee.com,2025-01-22 07:52:11,SingleLoad SPXVN050466480671 into LT0P1M3N8V7Q1
+SPXVN050466480671,22-BNH Yen Phong Hub,hai.tranthi@shopee.com,2025-01-22 07:52:03,SingleLoad SPXVN050466480671 into LT0P1M3N8V7Q1
+SPXVN059437830531,,NGUYỄN CHÍ THANH,2025-02-04 08:34:19,Driver delivering %!s(MISSING)
+SPXVN059437830531,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 14:52:47,SPXVN059437830531 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059437830531,HCM Mega SOC,[60721]VGL - Nguyễn Ân,2025-01-23 02:49:13,"Driver depart from HCM Mega SOC, LT0P1N3N2AFC5"
+SPXVN059437830531,Da Nang SOC,duc.tranminh02@shopee.com,2025-01-22 00:20:14,SingleLoad TO20250121STLIX into LT0P1L3MW2WF1
+SPXVN059437830531,Da Nang SOC,spx.36socdn.48@shopeemobile-external.com,2025-01-22 00:08:29,SingleLoad TO20250121STLIX into LT0P1K3MUU7O2
+SPXVN058884919591,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:16:53,SPXVN058884919591 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058884919591,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:13:35,SPXVN058884919591 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058884919591,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:34:15,SPXVN058884919591 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058884919591,HCM Mega SOC,dcbpoagt_1051@shopeemobile-external.com,2025-01-23 03:09:32,SingleLoad TO20250122T7UTS into LT0P1N3N2AHQ1
+SPXVN058884919591,HCM Mega SOC,thanhhoan.nguyen@shopee.com,2025-01-22 20:50:00,SingleLoad TO20250122T7UTS into LT0P1M3N015Z1
+SPXVN058884919591,HCM Mega SOC,duy.nguyenbao@shopee.com,2025-01-22 08:57:40,SingleLoad TO20250122T7UTS into LT0P1M3N00ER2
+SPXVN055654341671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 17:57:20,SPXVN055654341671 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055654341671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 10:33:44,SPXVN055654341671 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055654341671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 10:46:04,SPXVN055654341671 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055654341671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 11:00:52,SPXVN055654341671 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055654341671,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-01-22 12:37:15,SingleUnload TO20250122T6W6A from LT0P1M3N00CK3
+SPXVN055654341671,HCM Mega SOC,CBS001VN1707/CBS1-2-12/admin,2025-01-22 02:45:13,SPXVN055654341671 received by HCM Mega SOC
+SPXVN057098940581,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 16:53:53,SPXVN057098940581 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057098940581,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:06:04,SPXVN057098940581 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057098940581,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 15:22:53,SPXVN057098940581 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057098940581,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 10:30:14,SPXVN057098940581 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057098940581,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:28:25,SPXVN057098940581 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050422721051,,BÙI HỮU VINH,2025-01-24 11:08:42,Driver delivering %!s(MISSING)
+SPXVN050422721051,,BÙI HỮU VINH,2025-01-24 07:46:18,Driver delivering %!s(MISSING)
+SPXVN052704959541,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:28:17,SPXVN052704959541 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052704959541,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 11:04:46,SPXVN052704959541 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052704959541,HCM Mega SOC,DWS001VN1707/DWS03/admin,2025-01-22 02:05:22,SPXVN052704959541 received by HCM Mega SOC
+SPXVN052704959541,HCM Mega SOC,hung.nguyenphi@shopee.com,2025-01-22 02:02:16,Unseal LT0P1L3MY8PY5
+SPXVN052704959541,51-HCM Phu Nhuan/Phan Xich Long Hub,[88300]VGL - Trần Văn Cường,2025-01-22 01:44:50,"Driver depart from 51-HCM Phu Nhuan/Phan Xich Long Hub, LT0P1L3MY8PY5"
+SPXVN057620719561,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 18:17:53,SPXVN057620719561 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057620719561,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:11:38,SPXVN057620719561 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057620719561,HCM Mega SOC,thu.daoanh@shopee.com,2025-02-01 22:23:00,SPXVN057620719561 is packing into TO CO202502011SDHF
+SPXVN057620719561,HCM Mega SOC,ngoctrinh.nguyen@shopee.com,2025-02-01 14:28:34,SPXVN057620719561 is packing into TO CO202502011P5HN
+SPXVN057620719561,HCM Mega SOC,dcbpoagt205@shopeemobile-external.com,2025-01-23 15:41:28,SPXVN057620719561 is packing into TO IHT2025012305LAT
+SPXVN057620719561,HCM Mega SOC,DWS001VN1707/DWS05/admin,2025-01-22 20:19:54,SPXVN057620719561 received by HCM Mega SOC
+SPXVN057620719561,HCM Mega SOC,DWS001VN1707/DWS05/admin,2025-01-22 20:16:02,SPXVN057620719561 received by HCM Mega SOC
+SPXVN057620719561,HCM Mega SOC,dcbpoagt204@shopeemobile-external.com,2025-01-22 14:10:48,SPXVN057620719561 is packing into TO IHT20250122TDXUA
+SPXVN057620719561,HCM Mega SOC,spx@shopee.com,2025-01-21 20:31:03,SPXVN057620719561 received by HCM Mega SOC
+SPXVN057620719561,HCM Mega SOC,vu.nguyentruong@shopee.com,2025-01-21 20:31:03,SingleUnload SPXVN057620719561 from LT0P1L3MYDZA9
+SPXVN057620719561,HCM Mega SOC,vu.nguyentruong@shopee.com,2025-01-21 20:12:44,Unseal LT0P1L3MYDZA9
+SPXVN058774770861,,CAO NGUYEN KHOI NGUYEN,2025-02-04 11:00:33,Driver delivering %!s(MISSING)
+SPXVN058774770861,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:11:04,SPXVN058774770861 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058774770861,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 15:17:52,SPXVN058774770861 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058774770861,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 11:08:57,SPXVN058774770861 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058774770861,,CAO NGUYEN KHOI NGUYEN,2025-01-23 08:32:07,Driver delivering %!s(MISSING)
+SPXVN051146816231,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 17:56:37,SPXVN051146816231 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051146816231,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 10:51:35,SPXVN051146816231 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051146816231,HCM Mega SOC,DWS001VN1707/DWS03/admin,2025-01-22 02:25:37,SPXVN051146816231 received by HCM Mega SOC
+SPXVN057752419501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:48:22,SPXVN057752419501 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057752419501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:41:55,SPXVN057752419501 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057752419501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:18:47,SPXVN057752419501 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057752419501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-23 22:08:19,SingleUnload TO20250123TUMXD from LT0P1N3N39HV4
+SPXVN057752419501,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-23 22:08:19,SingleUnload TO20250123TUMXD from LT0P1N3N39HV4
+SPXVN056064673511,50-HCM Thu Duc/Hiep Binh Phuoc Hub,phat.lengoc@shopee.com,2025-01-24 21:04:50,SPXVN056064673511 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051988002451,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:33:10,SPXVN051988002451 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051988002451,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:34:13,SPXVN051988002451 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051988002451,HCM Mega SOC,CBS001VN1707/CBS1-3-09/admin,2025-01-23 05:24:14,SPXVN051988002451 received by HCM Mega SOC
+SPXVN056968954211,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 18:24:17,SPXVN056968954211 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056968954211,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:38:36,SPXVN056968954211 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056968954211,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 13:58:46,SPXVN056968954211 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056968954211,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 10:35:48,SPXVN056968954211 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056968954211,HCM Mega SOC,CBS001VN1707/CBS1-1-09/admin,2025-01-23 09:32:48,SPXVN056968954211 received by HCM Mega SOC
+SPXVN051698428321,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:56:21,SPXVN051698428321 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051698428321,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:33:54,SPXVN051698428321 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051698428321,HCM Mega SOC,spx@shopee.com,2025-01-24 08:40:45,SPXVN051698428321 received by HCM Mega SOC
+SPXVN051698428321,HCM Mega SOC,nguyentiendat@shopee.com,2025-01-24 08:40:46,SingleLoad SPXVN051698428321 into LT0P1O3N4INE1
+SPXVN051698428321,HCM Mega SOC,DWS001VN1707/DWS03/admin,2025-01-24 04:27:19,SPXVN051698428321 received by HCM Mega SOC
+SPXVN050969755771,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:58:33,SPXVN050969755771 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050969755771,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:35:01,SPXVN050969755771 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050969755771,HCM Mega SOC,dcbpoagt_1091@shopeemobile-external.com,2025-01-22 19:09:04,SPXVN050969755771 is packing into TO TO20250121S5NPP
+SPXVN050969755771,51-HCM Nha Be/Phu Xuan Hub,nam.nguyenhoa@shopee.com,2025-01-21 17:28:52,SPXVN050969755771 is packing into TO TO20250121SMXBB
+SPXVN059549650431,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:49:55,SPXVN059549650431 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059549650431,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:27:52,SPXVN059549650431 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059549650431,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 12:47:14,SPXVN059549650431 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059549650431,HCM Mega SOC,CBS001VN1707/CBS1-3-10/admin,2025-01-22 07:07:39,SPXVN059549650431 received by HCM Mega SOC
+SPXVN059549650431,HCM Mega SOC,CBS001VN1707/CBS1-3-10/admin,2025-01-22 07:06:57,SPXVN059549650431 received by HCM Mega SOC
+SPXVN059549650431,HCM Mega SOC,CBS001VN1707/CBS1-3-10/admin,2025-01-22 07:06:16,SPXVN059549650431 received by HCM Mega SOC
+SPXVN057189324461,,NGUYEN GIA QUAN,2025-02-04 08:10:59,Driver delivering %!s(MISSING)
+SPXVN057189324461,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:02:58,SPXVN057189324461 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057189324461,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 12:21:40,SPXVN057189324461 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN057189324461,HCM Mega SOC,DWS001VN1707/DWS04/admin,2025-01-23 08:12:46,SPXVN057189324461 received by HCM Mega SOC
+SPXVN051168713261,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:35:31,SPXVN051168713261 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051168713261,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:45:08,SPXVN051168713261 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051168713261,HCM Mega SOC,quynh.nhule@shopee.com,2025-01-23 18:32:44,SPXVN051168713261 is packing into TO TO20250123TUMXG
+SPXVN051168713261,HCM Mega SOC,MAN001VN1707/Manual12/SuperAdmin,2025-01-23 18:27:06,SPXVN051168713261 received by HCM Mega SOC
+SPXVN051168713261,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 15:54:28,Unseal LT1P1L3NDEB71
+SPXVN051168713261,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 15:54:28,Unseal LT1P1L3NDEB71
+SPXVN051313590621,,NGUYỄN MINH THỨC,2025-02-03 07:51:02,Driver delivering %!s(MISSING)
+SPXVN051313590621,HCM Mega SOC,spx@shopee.com,2025-01-23 19:11:42,SPXVN051313590621 received by HCM Mega SOC
+SPXVN051313590621,HCM Mega SOC,tienanh.nguyen@shopee.com,2025-01-23 19:11:43,SingleLoad SPXVN051313590621 into LT0P1N3N39HU3
+SPXVN051313590621,HCM Mega SOC,qui.tranminh@shopee.com,2025-01-23 14:50:17,SingleUnload SPXVN051313590621 from LT0P1M3MYD2F1
+SPXVN058267747291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:43:28,SPXVN058267747291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058267747291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:26:19,SPXVN058267747291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058267747291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:33:03,SPXVN058267747291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058267747291,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:30:05,SPXVN058267747291 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN058267747291,,CAO MINH NHUT,2025-01-25 10:56:24,Driver on-hold [Recipient reschedule]
+SPXVN058267747291,,CAO MINH NHUT,2025-01-25 08:32:37,Driver delivering %!s(MISSING)
+SPXVN058267747291,10-VPC Vinh Tuong Hub,VŨ THỊ THU TRANG,2025-01-21 18:11:23,Driver picked up SPXVN058267747291
+SPXVN054270917821,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:16:15,SPXVN054270917821 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054270917821,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:02:39,SPXVN054270917821 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054270917821,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:23:04,SPXVN054270917821 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 12:37:59,Driver delivering %!s(MISSING)
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 12:35:37,Driver delivering %!s(MISSING)
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 12:35:36,Driver delivering %!s(MISSING)
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 12:35:35,Driver delivering %!s(MISSING)
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 12:27:58,Driver delivering %!s(MISSING)
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 12:27:56,Driver delivering %!s(MISSING)
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 12:27:49,Driver delivering %!s(MISSING)
+SPXVN054270917821,,LÊ NGỌC TUẤN,2025-01-24 09:30:51,Driver delivering %!s(MISSING)
+SPXVN059155434041,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:18:38,SPXVN059155434041 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059155434041,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:03:39,SPXVN059155434041 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059155434041,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:34:18,SPXVN059155434041 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059155434041,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:23:51,SPXVN059155434041 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050304216931,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-02-03 10:22:38,SPXVN050304216931 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050304216931,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 15:00:34,SPXVN050304216931 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059289784481,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:21:09,SPXVN059289784481 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059289784481,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:27:32,SPXVN059289784481 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059289784481,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 11:05:07,SPXVN059289784481 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059289784481,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-21 22:52:04,SingleUnload TO20250121SNQRZ from LT0P1L3MXR3D6
+SPXVN059289784481,HCM Mega SOC,qui.tranminh@shopee.com,2025-01-21 16:06:07,Unseal LT0P1L3MYDK21
+SPXVN053649509061,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:04:02,SPXVN053649509061 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053649509061,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:41:39,SPXVN053649509061 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN053649509061,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:17:20,SPXVN053649509061 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059422912741,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 18:23:18,SPXVN059422912741 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN059422912741,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:36:36,SPXVN059422912741 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN054936990991,,NGUYEN NGOC HANH,2025-01-24 12:01:04,Driver delivering %!s(MISSING)
+SPXVN054936990991,,NGUYEN NGOC HANH,2025-01-24 12:00:31,Driver delivering %!s(MISSING)
+SPXVN054936990991,,NGUYEN NGOC HANH,2025-01-24 08:38:24,Driver delivering %!s(MISSING)
+SPXVN054936990991,HCM Mega SOC,DWS001VN1707/DWS04/admin,2025-01-23 16:14:45,SPXVN054936990991 received by HCM Mega SOC
+SPXVN054936990991,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 15:54:28,Unseal LT1P1L3NDEB71
+SPXVN054936990991,HCM Mega SOC,giang.nguyenthanh@shopee.com,2025-01-23 15:54:28,Unseal LT1P1L3NDEB71
+SPXVN055232272451,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:49:33,SPXVN055232272451 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055232272451,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 15:51:27,SPXVN055232272451 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055232272451,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:39:29,SPXVN055232272451 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050098203831,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-04 18:17:31,SPXVN050098203831 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050098203831,,TRƯƠNG HOÀNG PHÚC,2025-02-03 07:51:52,Driver delivering %!s(MISSING)
+SPXVN050098203831,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 14:06:36,SPXVN050098203831 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050098203831,50-HCM Thu Duc/Hiep Binh Phuoc Hub,nguyen.dinhthanh@shopee.com,2025-01-26 10:42:18,SPXVN050098203831 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050098203831,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-01-25 10:33:03,SPXVN050098203831 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050098203831,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-24 15:50:05,SPXVN050098203831 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051779172221,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 16:08:49,SPXVN051779172221 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051779172221,,NGUYEN MANH CUONG,2025-02-03 08:06:50,Driver delivering %!s(MISSING)
+SPXVN051779172221,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 14:37:16,SPXVN051779172221 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051779172221,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 10:56:29,SPXVN051779172221 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051779172221,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-01-25 11:32:57,SPXVN051779172221 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN051779172221,50-HCM Thu Duc/Hiep Binh Phuoc Hub,quoctrung.nguyentran@shopee.com,2025-01-22 18:50:31,SPXVN051779172221 is packing into TO TO20250122TLCFD
+SPXVN051779172221,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoangnam.huynhvi@shopee.com,2025-01-21 20:55:17,SPXVN051779172221 is packing into TO TO20250121SVWW0
+SPXVN055995938581,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 14:54:42,SPXVN055995938581 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055995938581,,NGUYỄN CHÍ THANH,2025-02-01 11:37:50,Driver delivering %!s(MISSING)
+SPXVN055995938581,HCM Mega SOC,CBS001VN1707/CBS1-3-13/admin,2025-01-22 09:41:35,SPXVN055995938581 received by HCM Mega SOC
+SPXVN055448477511,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 10:50:03,SPXVN055448477511 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055448477511,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thuylinh.nguyenphan@shopee.com,2025-02-02 14:28:03,SPXVN055448477511 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN055448477511,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-22 11:30:12,SPXVN055448477511 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050291289691,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhson.tran@shopee.com,2025-02-03 15:16:05,SPXVN050291289691 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050291289691,50-HCM Thu Duc/Hiep Binh Phuoc Hub,dat.trantien01@shopee.com,2025-02-03 10:08:04,SPXVN050291289691 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050291289691,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hoa.hongoc@shopee.com,2025-02-02 13:44:58,SPXVN050291289691 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN052589830921,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:58:38,SPXVN052589830921 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050190014161,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:13:50,SPXVN050190014161 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050190014161,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 10:53:21,SPXVN050190014161 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050190014161,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:50:44,SPXVN050190014161 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN050190014161,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:29:56,SPXVN050190014161 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056168404941,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-03 15:20:33,SPXVN056168404941 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056168404941,50-HCM Thu Duc/Hiep Binh Phuoc Hub,hungcuong.dinhquoc@shopee.com,2025-02-03 11:06:54,SPXVN056168404941 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056168404941,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-02-02 10:41:21,SPXVN056168404941 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056168404941,50-HCM Thu Duc/Hiep Binh Phuoc Hub,thanhphu.tranquang@shopee.com,2025-01-26 12:15:28,SPXVN056168404941 received by 50-HCM Thu Duc/Hiep Binh Phuoc Hub
+SPXVN056168404941,HCM Mega SOC,CBS001VN1707/CBS1-1-11/admin,2025-01-23 07:01:24,SPXVN056168404941 received by HCM Mega SOC

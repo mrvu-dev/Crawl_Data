@@ -40,18 +40,22 @@ if (r.status_code == 200):
         while retries < 5:
             response = requests.get(unsuccessful_url, params='shipment_id={}&pageno=1&count=100&tdflag=0'.format(pid), cookies=cookies)
             list = response.json().get('data').get('list')
-            try:
-                for i in range(len(list)):
-                    check_shipmentID = list[i]
-                    result.append(parser_data(pid, check_shipmentID))
-                    print('Crawl data {} success !!!'.format(pid))
+            if list == None:
                 time.sleep(random.randrange(3, 5))
                 break
-            except AttributeError:
-                print('Crawl data {} fail !!!'.format(pid))
-                print('Thử lại')
-                time.sleep(random.randrange(3, 5))
-                retries += 1
+            else:
+                try:
+                    for i in range(len(list)):
+                        check_shipmentID = list[i]
+                        result.append(parser_data(pid, check_shipmentID))                        
+                    print('Crawl data {} success !!!'.format(pid))
+                    time.sleep(random.randrange(5, 10))
+                    break
+                except AttributeError:
+                    print('Crawl data {} fail !!!'.format(pid))
+                    print('Thử lại')
+                    time.sleep(random.randrange(3, 5))
+                    retries += 1
         else:
             continue
 else:

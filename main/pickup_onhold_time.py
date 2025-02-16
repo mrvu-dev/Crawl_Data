@@ -41,7 +41,7 @@ if (r.status_code == 200):
             check_shipmentID = response.json().get('data').get('tracking_list')[-1].get('children')
             reverse_list = check_shipmentID[::-1]
             length_list = len(reverse_list)
-            time.sleep(random.randrange(1, 3))
+            time.sleep(random.randrange(3, 5))
             try:
                 for i in range(length_list):
                     check_status = reverse_list[i].get('status')
@@ -53,7 +53,7 @@ if (r.status_code == 200):
             except AttributeError:
                 print('Crawl data {} fail !!!'.format(pid))
                 print('Thử lại')
-                time.sleep(random.randrange(1, 3))
+                time.sleep(random.randrange(3, 5))
                 retries += 1
             except IndexError:
                 result.append(parser_data(response.json().get('data').get('tracking_list')[-1]))
